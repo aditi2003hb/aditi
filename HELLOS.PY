@@ -1,1 +1,3 @@
 print("MY NAME IS ADITITTIIT")
+a=23
+d=23
